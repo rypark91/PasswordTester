@@ -1,0 +1,28 @@
+html,body{
+    background-color: #333;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+#maincontainer{
+    margin: 0 auto;
+    padding-top: 100px;
+    width: 80%;
+    height: 400px;
+    background-color: green;
+    font-size: 28px;
+}
+h2{
+    text-align: center;
+}
+#maincontainer label, #maincontainer input, #maincontainer p{
+    margin: 10px 20px;
+
+}
+#copyright{
+    text-align: center;
+}
+input{
+    width: 70%;
+    height: 30px;
+    font-size: 20px;
+}
